@@ -334,8 +334,7 @@ To build and run:
 
 
 ### Firestore Console (Synced Analytics Data)
-<img width="600" alt="Firestore console showing synced analytics_log documents" src="https://github.com/user-attachments/assets/627beb75-dc8b-4da6-afcf-930bf03ea103" />
-
+<img width="600" alt="Firestore console showing synced analytics_log documents" src="https://github.com/user-attachments/assets/c11d4583-b77f-4429-a576-bfb0e960bf9d" />
 
 
 ### Flash Deal Countdown (Close-up)
