@@ -333,8 +333,8 @@ To build and run:
 
 
 
-### WorkManager + Firestore Sync Demo
-<img width="1728" height="960" alt="Screenshot 2026-07-03 at 12 23 45 PM" src="https://github.com/user-attachments/assets/627beb75-dc8b-4da6-abcf-930bf03ea103" />
+### Firestore Console (Synced Analytics Data)
+<img width="600" alt="Firestore console showing synced analytics_log documents" src="https://github.com/user-attachments/assets/627beb75-dc8b-4da6-afcf-930bf03ea103" />
 
 
 
