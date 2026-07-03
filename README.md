@@ -317,38 +317,47 @@ To build and run:
 ## 9. Screenshots
 
 ### Light Mode
-<!-- TODO: replace with actual screenshot path after pushing, e.g. docs-assets/light-feed.png -->
-![Product Feed - Light Mode](PLACEHOLDER_LIGHT_MODE_SCREENSHOT.png)
+<img width="280" alt="Product Feed - Light Mode" src="https://github.com/user-attachments/assets/ef483fed-ff9f-4366-84fe-23d93097eee3" />
+<img width="280" alt="Product Feed - Light Mode" src="https://github.com/user-attachments/assets/ad994ceb-8a09-4a01-965c-edf3f688dbd3" />
+<img width="280" alt="Product Feed - Light Mode" src="https://github.com/user-attachments/assets/504f4a23-d668-4af2-a677-94726a988f96" />
+<img width="280" alt="Product Feed - Light Mode" src="https://github.com/user-attachments/assets/59605284-4c15-4f29-9fa9-883ade25c1e5" />
+
+
+
 
 ### Dark Mode
-<!-- TODO: replace with actual screenshot path after pushing -->
-![Product Feed - Dark Mode](PLACEHOLDER_DARK_MODE_SCREENSHOT.png)
+<img width="280"  alt="Product Feed - Dark Mode" src="https://github.com/user-attachments/assets/4ba619ca-965a-4c35-9cbd-be1d5eff3b06" />
+<img width="280"  alt="Product Feed - Dark Mode" src="https://github.com/user-attachments/assets/9287e40d-1207-4beb-9706-cdac1e9f0800" />
+<img width="280" alt="Product Feed - Dark Mode" src="https://github.com/user-attachments/assets/bea3e0f2-c818-4f3b-b3c9-9e2c29cbd29e" />
+<img width="280"  alt="Product Feed - Dark Mode" src="https://github.com/user-attachments/assets/b448144d-c554-4de3-8407-3df7b8ae8d25" />
+
+
+
+### WorkManager + Firestore Sync Demo
+<img width="1728" height="960" alt="Screenshot 2026-07-03 at 12 23 45 PM" src="https://github.com/user-attachments/assets/627beb75-dc8b-4da6-abcf-930bf03ea103" />
+
+
 
 ### Flash Deal Countdown (Close-up)
-<!-- TODO: replace with actual screenshot path after pushing -->
-![Flash Deal Countdown](PLACEHOLDER_COUNTDOWN_SCREENSHOT.png)
+<img width="280"  alt="Countdown" src="https://github.com/user-attachments/assets/c8bd891d-78b9-4638-a695-cb2baf64a8df" />
+<img width="280" alt="Countdown" src="https://github.com/user-attachments/assets/352d2f61-59cb-48e7-b624-b6e33b1232fb" />
+
+
 
 ### Theme Picker
-<!-- TODO: replace with actual screenshot path after pushing -->
-![Theme Picker](PLACEHOLDER_THEME_PICKER_SCREENSHOT.png)
+<img width="280"  alt="Theme Picker Light Mode" src="https://github.com/user-attachments/assets/22a155b7-42ea-4b16-8364-832a98397c79" />
+<img width="280"  alt="Theme Picker Dark Mode" src="https://github.com/user-attachments/assets/41fa28a6-4c86-4acf-9235-42eaee28f22a" />
+
+
 
 ---
 
 ## 10. Screen Recordings
 
-GitHub does not render local video file paths inline in Markdown reliably. Upload recordings through the GitHub web UI (edit this README in the browser and drag the video into the editor) to get a `https://github.com/user-attachments/...` URL, then paste that URL below.
-
 ### Product Feed Demo (Offline-First Behavior)
-<!-- TODO: upload this recording via GitHub's web UI (edit this file in the browser and
-drag the video file into the editor) to get a real user-attachments URL, then replace
-the line below with that URL -->
-PLACEHOLDER_PRODUCT_FEED_RECORDING_URL
 
-### WorkManager + Firestore Sync Demo
-<!-- TODO: same process as above. This recording should show: the analytics log being
-written locally when an action is taken, then the WorkManager-triggered sync pushing
-that data to Firestore, visible in the Firebase console -->
-PLACEHOLDER_WORKMANAGER_FIRESTORE_RECORDING_URL
+https://github.com/user-attachments/assets/d66b2062-f288-4a29-84d1-a40ecbedc79c
+
 
 ---
 
