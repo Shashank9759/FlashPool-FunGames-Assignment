@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flashpool.data.preferences.ThemePreferenceRepositoryImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-03T11:54:58" hostname="Shashanks-MacBook-Pro.local" time="0.148">
+  <properties/>
+  <testcase name="persists_light_dark_and_system" classname="com.flashpool.data.preferences.ThemePreferenceRepositoryImplTest" time="0.144"/>
+  <testcase name="defaults_to_light" classname="com.flashpool.data.preferences.ThemePreferenceRepositoryImplTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

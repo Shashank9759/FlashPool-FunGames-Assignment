@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Organic Cold-Pressed Olive Oil 500ml",
+      "imageUrl": "https://m.media-amazon.com/images/I/5109qkiYH-L._SL1080_.jpg",
+      "retailPrice": 12.99,
+      "inventoryCount": 48,
+      "category": "FMCG",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "p2",
+      "title": "Artisan Sourdough Bread Loaf",
+      "imageUrl": "https://m.media-amazon.com/images/I/81mLDpZfKYL._SL1500_.jpg",
+      "retailPrice": 5.49,
+      "inventoryCount": 22,
+      "category": "FMCG",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "p3",
+      "title": "Minimalist Leather Wallet",
+      "imageUrl": "https://m.media-amazon.com/images/I/71s-nTwbycL._SL1500_.jpg",
+      "retailPrice": 34.00,
+      "inventoryCount": 15,
+      "category": "LIFESTYLE",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "p4",
+      "title": "Ceramic Pour-Over Coffee Set",
+      "imageUrl": "https://m.media-amazon.com/images/I/81t6Ae7XnRL._SL1500_.jpg",
+      "retailPrice": 28.50,
+      "inventoryCount": 9,
+      "category": "LIFESTYLE",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "p5",
+      "title": "Wireless Noise-Cancelling Earbuds",
+      "imageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+      "retailPrice": 89.99,
+      "inventoryCount": 31,
+      "category": "TECH",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "p6",
+      "title": "USB-C GaN Charger 65W",
+      "imageUrl": "https://m.media-amazon.com/images/I/41u976e5AZL._SL1000_.jpg",
+      "retailPrice": 42.00,
+      "inventoryCount": 56,
+      "category": "TECH",
+      "dealEndEpochMillis": null
+    },
+    {
+      "id": "flash-deal-1",
+      "title": "Flash Deal: Smart Fitness Band",
+      "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/05/4275740-Best-Heart-Rate-Monitor-Watches-for-2025-header_1296x728.jpg",
+      "retailPrice": 59.99,
+      "inventoryCount": 120,
+      "category": "TECH",
+      "dealEndEpochMillis": 0
+    }
+  ]
+}

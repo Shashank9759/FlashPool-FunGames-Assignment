@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flashpool.ui.feed.ProductFeedViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-03T11:55:07" hostname="Shashanks-MacBook-Pro.local" time="1.09">
+  <properties/>
+  <testcase name="join pool logs analytics event" classname="com.flashpool.ui.feed.ProductFeedViewModelTest" time="1.068"/>
+  <testcase name="refresh success clears error and loading" classname="com.flashpool.ui.feed.ProductFeedViewModelTest" time="0.017"/>
+  <testcase name="refresh failure keeps items and sets error" classname="com.flashpool.ui.feed.ProductFeedViewModelTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

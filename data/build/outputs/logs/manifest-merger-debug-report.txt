@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml:2:13-83
+INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml:2:13-83
+	package
+		INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml
+	xmlns:android
+		ADDED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml:2:23-81
+uses-sdk
+INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml reason: use-sdk injection requested
+INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml
+INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml
+	android:minSdkVersion
+		INJECTED from /Users/shashankranjan/cursorProjects/Funstop_Shashank_assign/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4825186343761852697.xml

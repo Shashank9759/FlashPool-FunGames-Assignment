@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flashpool.domain.usecase.CountdownTickerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-03T11:54:35" hostname="Shashanks-MacBook-Pro.local" time="0.113">
+  <properties/>
+  <testcase name="self corrects drift instead of decrementing a counter" classname="com.flashpool.domain.usecase.CountdownTickerTest" time="0.104"/>
+  <testcase name="emits zero and completes when past end" classname="com.flashpool.domain.usecase.CountdownTickerTest" time="0.004"/>
+  <testcase name="remaining millis computed from end instant each tick" classname="com.flashpool.domain.usecase.CountdownTickerTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
