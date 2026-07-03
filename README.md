@@ -273,7 +273,7 @@ Robolectric tests in `data` require the Android SDK configured in `local.propert
 
 ```bash
 git clone https://github.com/Shashank9759/FlashPool-FunGames-Assignment.git
-cd Funstop_Shashank_assign
+cd FlashPool-FunGames-Assignment
 ```
 
 ### Firebase setup (`google-services.json`)
